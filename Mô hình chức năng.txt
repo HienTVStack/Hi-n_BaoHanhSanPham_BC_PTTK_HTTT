@@ -1,0 +1,36 @@
+GHI NHẬN THÔNG TIN HỔ TRỢ KHÁCH HÀNG
+
+1. Khi khách hàng cần hổ trợ bảo hành sản phẩm
+2. KH mang sản phẩm đến cửa hàng yêu cầu được bảo hành
+3. Nhân viên tiếp nhận ghi nhận lỗi sản phẩm mà khách hàng báo
+4. Nhân viên kiểm tra thông tin sản phẩm bằng các dựa vào hóa đơn hoặc phiếu bảo hành mà khách hàng mang đến
+5. Lập phiếu thông tin bảo hành cho khách hàng
+
+--CƠ SỞ DỮ LIỆU BAN ĐẦU
+1. KHI KHÁCH HÀNG MUA MỘT SẢN PHẨM NÀO ĐÓ ( THANH TOÁN HÓA ĐƠN )
+LƯU THÔNG TIN BẢO HÀNH CỦA KHÁCH HÀNG NÀY.
+MỖI KHÁCH HÀNG SẼ CÓ MỘT ROW TRONG BẢNG BẢO HÀNH.
+MỖI KHÁCH HÀNG SẼ CÓ NHIỀU CHI TIẾT BẢO HÀNH,
+MỖI CHI TIẾT BẢO HÀNH LÀ NHỮNG SẢN PHẨM KHÁCH HÀNG ĐÃ MUA VÀ CÓ HỔ TRỢ BẢO HÀNH
+
+VÍ DỤ
+KHÁCH HÀNG TRẦN VĂN HIỀN
+BẢNG BẢO HÀNH
+(MÃ BẢO HÀNH, TÊN BẢO HÀNH, KHÁCH HÀNG) => (1, PHIẾU BẢO HÀNH CỦA KHÁCH HÀNG TRẦN VĂN HIỀN, TRẦN VĂN HIỀN)
+
+CHI TIẾT BẢO HÀNH
+(MÃ CHI TIẾT, MÃ BẢO HÀNH, SẢN PHẨM, NHÂN VIÊN, MÔ TẢ, TRẠNG THÁI)
+=> (1, 1(PHIẾU BẢO HÀNH Ở TRÊN), 1(SẢN PHẨM NÀO), 1(NHÂN VIÊN NÒA BẢO HÀNH), LỖI SẢN PHẨM DO NHÀ CUNG CẤP, 0)
+
+NHƯ VẬY MỖI KHÁCH HÀNG ĐIỀU CÓ 1 BẢNG BẢO HÀNH VÀ TRONG ĐÓ SẼ LƯU NHỮNG SẢN PHẨM MÀ KHÁCH HÀNG ĐÃ MUA VÀ SẢN PHẨM 
+ĐÓ CÓ THỂ HỔ TRỢ BẢO HÀNH
+
+-- PHẦN CHỨC NĂNG
+FORM 1: DANH SÁCH CHI TIẾT
+	HIỂN THỊ THÔNG TIN CHI TIẾT CỦA MỖI SẢN PHẨM BẢO HÀNH KHI CLICK VÀO NÓ Ở DATAGRIDVIEW
+	DATAGRIDVIEW HIỂN THỊ DANH SÁCH SẢN PHẨM CỦA KHÁCH HÀNG + BUTTON TEXT "BẢO HÀNH"
+	KHI CLICK VÀO BẢO HÀNH CỦA MỖI SẢN PHẨM. LẤY ID CỦA SẢN PHẨM ĐÓ QUA FORM 2
+FORM 2: LẬP PHIẾU BẢO HÀNH
+	TẠI Ý 4 LẤY ID CỦA SẢN PHẨM
+	
+

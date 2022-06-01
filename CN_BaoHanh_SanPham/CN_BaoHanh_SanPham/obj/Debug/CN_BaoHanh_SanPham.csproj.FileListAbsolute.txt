@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Desktop\Hiền_BC_PTTK_HTTT\CN_BaoHanh_SanPham\CN_BaoHanh_SanPham\bin\Debug\CN_BaoHanh_SanPham.exe.config
+C:\Users\ADMIN\Desktop\Hiền_BC_PTTK_HTTT\CN_BaoHanh_SanPham\CN_BaoHanh_SanPham\bin\Debug\CN_BaoHanh_SanPham.exe
+C:\Users\ADMIN\Desktop\Hiền_BC_PTTK_HTTT\CN_BaoHanh_SanPham\CN_BaoHanh_SanPham\bin\Debug\CN_BaoHanh_SanPham.pdb
+C:\Users\ADMIN\Desktop\Hiền_BC_PTTK_HTTT\CN_BaoHanh_SanPham\CN_BaoHanh_SanPham\obj\Debug\CN_BaoHanh_SanPham.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Hiền_BC_PTTK_HTTT\CN_BaoHanh_SanPham\CN_BaoHanh_SanPham\obj\Debug\CN_BaoHanh_SanPham.Form1.resources
+C:\Users\ADMIN\Desktop\Hiền_BC_PTTK_HTTT\CN_BaoHanh_SanPham\CN_BaoHanh_SanPham\obj\Debug\CN_BaoHanh_SanPham.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Hiền_BC_PTTK_HTTT\CN_BaoHanh_SanPham\CN_BaoHanh_SanPham\obj\Debug\CN_BaoHanh_SanPham.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Hiền_BC_PTTK_HTTT\CN_BaoHanh_SanPham\CN_BaoHanh_SanPham\obj\Debug\CN_BaoHanh_SanPham.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Hiền_BC_PTTK_HTTT\CN_BaoHanh_SanPham\CN_BaoHanh_SanPham\obj\Debug\CN_BaoHanh_SanPham.exe
+C:\Users\ADMIN\Desktop\Hiền_BC_PTTK_HTTT\CN_BaoHanh_SanPham\CN_BaoHanh_SanPham\obj\Debug\CN_BaoHanh_SanPham.pdb
+C:\Users\ADMIN\Desktop\Hiền_BC_PTTK_HTTT\CN_BaoHanh_SanPham\CN_BaoHanh_SanPham\obj\Debug\CN_BaoHanh_SanPham.frm_ChiTietBaoHanh_KH.resources
+C:\Users\ADMIN\Desktop\Hiền_BC_PTTK_HTTT\CN_BaoHanh_SanPham\CN_BaoHanh_SanPham\obj\Debug\CN_BaoHanh_SanPham.WaitForm.resources
+C:\Users\ADMIN\Desktop\Hiền_BC_PTTK_HTTT\CN_BaoHanh_SanPham\CN_BaoHanh_SanPham\obj\Debug\CN_BaoHanh_SanPham.DangNhap.resources
